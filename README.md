@@ -37,4 +37,9 @@
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=Thushan96&theme=soft-green)](https://git.io/streak-stats)
 
+<p align="center"> 
+  <h1>Visitor count</h1><br>
+  <img src="https://profile-counter.glitch.me/Thushan96/count.svg" />
+</p>
+
 
