@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://thushanmadhulakshitha.000webhostapp.com](https://thushanmadhulakshitha.000webhostapp.com)
 
-- 💬 Ask me about **java,sql and web development**
-
 - 📫 How to reach me **thushanmadhulakshitha@gmail.com**
 
 - ⚡ Fun fact **I think I am a good swimmer**
+
+![Image of About](https://noclinks.net/assets/img/softwaredev.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
