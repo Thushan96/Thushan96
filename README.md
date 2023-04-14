@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **something extra ordinary**
 
-- 🌱 I’m currently learning **java,html,css,hibernate and javascript**
+- 🌱 I’m currently learning **java,html,css,javascript,nodeJs and python**
 
 - 👨‍💻 All of my projects are available at [https://thushanmadhulakshitha.000webhostapp.com](https://thushanmadhulakshitha.000webhostapp.com)
 
