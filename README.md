@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **java,html,css,javascript,nodeJs and python**
 
-- 👨‍💻 All of my projects are available at [https://thushanmadhulakshitha.000webhostapp.com](https://thushanmadhulakshitha.000webhostapp.com)
-
 - 📫 How to reach me **thushanmadhulakshitha@gmail.com**
 
 - ⚡ Fun fact **I think I am a good swimmer**
