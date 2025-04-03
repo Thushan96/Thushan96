@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **something extra ordinary**
 
-- 🌱 I’m currently learning **java,html,css,javascript,nodeJs and python**
+- 🌱 I’m currently learning **Java,.Net,HTML,CSS,Javascript,nodeJs,ReactJs,NextJs and python**
 
 - 📫 How to reach me **thushanmadhulakshitha@gmail.com**
 
